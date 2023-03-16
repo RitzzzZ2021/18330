@@ -1,5 +1,7 @@
 # 18.330: Introduction to Numerical Analysis
 
+_Note:_ This repository is forked from [here](https://github.com/mitmath/18330). I add my solutions to problem_sets.
+
 ## Spring 2021
 
 Welcome to course 18.330 at MIT! This is an introductory course on **numerical analysis**.
